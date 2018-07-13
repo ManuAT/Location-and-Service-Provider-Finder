@@ -1,0 +1,7 @@
+
+TO use GUI Have to INSTALL PIL-1.1.7.win32-py2.7
+please use python 2
+			
+	submitted by
+		MANU AT(42)
+		
